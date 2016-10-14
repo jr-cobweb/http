@@ -1,10 +1,8 @@
 # The PSR7 Http Implementation   [![Analytics](https://ga-beacon.appspot.com/UA-48372917-1/http/readme)](https://github.com/igrigorik/ga-beacon)
 
-[![Build Status](https://travis-ci.org/asika32764/http.svg)](https://travis-ci.org/asika32764/http)
-[![Latest Stable Version](https://poser.pugx.org/asika/http/v/stable)](https://packagist.org/packages/asika/http) 
-[![Total Downloads](https://poser.pugx.org/asika/http/downloads)](https://packagist.org/packages/asika/http) 
-[![Latest Unstable Version](https://poser.pugx.org/asika/http/v/unstable)](https://packagist.org/packages/asika/http) 
 [![License](https://poser.pugx.org/asika/http/license)](https://packagist.org/packages/asika/http)
+
+**Fork - quick hack to make this work in >=PHP5.3.3**
 
 This package provides PSR7 standard Http message objects, Uri objects, Stream objects and Client request object. **(PHP 5.3 Compatible)**
 
