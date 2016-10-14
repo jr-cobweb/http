@@ -18,17 +18,6 @@ namespace Asika\Http\Uri;
 interface UriInterface
 {
 	/**
-	 * Returns full uri string.
-	 *
-	 * @param   array  $parts  An array specifying the parts to render.
-	 *
-	 * @return  string  The rendered URI string.
-	 *
-	 * @since   2.0
-	 */
-	public function toString(array $parts = array('scheme', 'user', 'pass', 'host', 'port', 'path', 'query', 'fragment'));
-
-	/**
 	 * Checks if variable exists.
 	 *
 	 * @param   string  $name  Name of the query variable to check.
