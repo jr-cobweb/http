@@ -1,5 +1,5 @@
 {
-    "name": "asika/http",
+    "name": "cobwebinfo/http",
     "description": "PSR HTTP Message implementations. (PHP 5.3 Compatible)",
     "keywords": ["asika", "psr7", "uri", "http", "request", "response", "client", "restful", "stream"],
     "homepage": "https://github.com/asika32764/asika-http",
